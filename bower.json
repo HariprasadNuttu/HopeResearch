@@ -1,0 +1,30 @@
+{
+  "name": "HopeResearch",
+  "version": "0.0.0",
+  "authors": [
+    "HariprasadNuttu"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "angular": "latest",
+    "angular-route": "1.5.8",
+    "angular-messages": "1.5.8",
+    "angular-resource": "1.5.8",
+    "angular-sanitize": "1.5.8",
+    "angular-touch": "1.5.8",
+    "angular-ui-router": "^1.0.20",
+    "jquery": "~2.2.0",
+    "angular-ui-bootstrap": "2.3.2",
+    "angular-bootstrap": "^2.2.0",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
