@@ -17,6 +17,7 @@
     "mongoose": "^5.3.3",
     "morgan": "~1.0.1",
     "nodemailer": "^4.6.8",
+    "nodemailer-smtp-transport": "^2.7.4",
     "stylus": "^0.54.5"
   },
   "devDependencies": {
